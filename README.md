@@ -3,6 +3,8 @@
 <details>
   <summary><b>Group leaders 🚀</b></summary>
 
+🇨🇳[浙大百人计划 ZJU 100 Young Professor](https://www.nature.com/naturecareers/job/12819493/zju-100-young-professor/?TrackID=29551&BatchID=479&JobAlertId=38023&cmpid=JBE_TL_20240622_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240622_applynow_job1)
+
 🇺🇸[UCSF Assistant/Associate/Full Professor in Stem Cell Editing and Cell Engineering](https://jobs.sciencecareers.org/job/658057/assistant-associate-full-professor-in-stem-cell-editing-and-cell-engineering/?TrackID=364650&BatchID=6073&JobAlertId=418793&cmpid=JBE_TL_20240525_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240525_applynow_job2)
 
 🇩🇪[Universität Bielefeld W3 professorship for Synthetic Microbial Communities and Interactions](https://www.nature.com/naturecareers/job/12818438/w3-professorship-for-synthetic-microbial-communities-and-interactions/?TrackID=29551&BatchID=451&JobAlertId=38023&cmpid=JBE_TL_20240524_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240524_applynow_job2)
@@ -356,6 +358,8 @@
 
 <details>
   <summary><b>Postdocs 🪐</b></summary>
+
+🇫🇷[Postdoc position in heart morphogenesis at Pasteur, Paris](https://research.pasteur.fr/en/team/heart-morphogenesis/)
 
 🇺🇸[Rowland Fellowship at Harvard for early-career experimentalists](https://www.nature.com/naturecareers/job/12817874/rowland-fellowship/?TrackID=29551&BatchID=441&JobAlertId=38023&cmpid=JBE_TL_20240514_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240514_applynow_job1)
 
